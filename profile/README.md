@@ -7,12 +7,11 @@ We're setting up AI conversion pipelines for distributed containers.
 
 </div>
 
-
 ### 👩‍💻 Contributing
 
-1. [![image](https://github.com/kontains/.github/assets/2006565/44a8bff4-aeb9-4bf7-b6a7-01cf1403a5b6)](https://discord.gg/W2SNxPw4) 
-2. [📚 Docs](https://github.com/kontains/docs)
-3. ⌛ Bots: 
+1. <a href="https://discord.gg/W2SNxPw4"><img src="https://github.com/kontains/.github/assets/2006565/c83747d9-a6ea-469f-9ed3-4e84eb234163" align="left" height="18" width="18"></a><small>Dev:</small>
+2. [📚 &nbsp; &nbsp; Docs](https://github.com/kontains/docs)
+3. ⌛ &nbsp; &nbsp; &nbsp; Bots: 
 
 
 ### 🛠️ Tools  
