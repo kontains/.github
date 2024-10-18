@@ -7,10 +7,12 @@
 
 ### 👩‍💻 Contributing
 
-1. <a href="https://discord.gg/zGn7MS6"><img src="https://github.com/kontains/.github/assets/2006565/c83747d9-a6ea-469f-9ed3-4e84eb234163" align="left" height="18" width="18"></a><small>Dev:</small>
-2. [📚 &nbsp; &nbsp; Docs](https://github.com/kontains/docs)
-3. ⌛ &nbsp; &nbsp; &nbsp; Bots: 
-
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=23425913&period=past_12_months" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=23425913&period=past_12_months&image_size=1x1&color_scheme=dark" width="273" height="auto">
+    <img alt="Active participants of kontains" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=23425913&period=past_12_months&image_size=1x1&color_scheme=light" width="273" height="auto">
+  </picture>
+</a>
 
 ### 🛠️ Tools  
 
